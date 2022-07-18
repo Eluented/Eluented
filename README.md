@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eluented&label=Profile%20views&color=0e75b6&style=flat" alt="eluented" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eluented" alt="eluented" /></a> </p>
-
 - 🔭 I’m currently working on creating a portfolio page with next.js [portfolio-next.js](https://github.com/Eluented/portfolio-next.js)
 
 - 🌱 I’m currently learning **Next.js, Gatsby, Firebase**
@@ -22,11 +20,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<br/>  
-
-
-## My Skill Set  
+## Languages and Tools 
 <table><tr><td valign="top" width="25%">
 
 
@@ -93,4 +87,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eluented&show_icons=true&locale=en" alt="eluented" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eluented&" alt="eluented" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eluented&" alt="eluented" /></p>
