@@ -3,8 +3,7 @@
 </div>  
 
 <h1 align="center">Hi 👋, I'm Onur, a full-stack developer</h1>
-<h3 align="center">“Perfection of character: to live your last day, every day, without frenzy, or sloth, or pretense.” 
-—Marcus Aurelius</h3>
+<h3 align="center">“Perfection of character: to live your last day, every day, without frenzy, or sloth, or pretense.” -Marcus Aurelius</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eluented&label=Profile%20views&color=0e75b6&style=flat" alt="eluented" /> </p>
 
