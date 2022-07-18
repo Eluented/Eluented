@@ -83,12 +83,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td><td valign="top" width="25%">
-
 </td></tr></table>  
 
 <br/>  
 
+### GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eluented&show_icons=true&locale=en&layout=compact" alt="eluented" /></p>
 
