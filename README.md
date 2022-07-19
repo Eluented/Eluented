@@ -83,9 +83,10 @@
 
 ### GitHub Stats
 
-<div style="display:flex; justify-content:space-around; align-items:center;"></div>
+<div style="display:flex; justify-content:space-around; align-items:center;">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eluented&show_icons=true&locale=en&layout=compact" alt="eluented" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eluented&show_icons=true&locale=en" alt="eluented" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eluented&" alt="eluented" /></p>
+</div>
