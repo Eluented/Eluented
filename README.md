@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eluented&label=Profile%20views&color=0e75b6&style=flat" alt="eluented" /> </p>
 
-- 🔭 I’m currently working on creating an [ecommerce website](https://github.com/Eluented/nextjs-portfolio)
+- 🔭 I’m currently working on creating an [ecommerce website](https://github.com/Eluented/eccomerce-practice)
 
 - 🌱 I’m currently learning **Next.js, Gatsby, Firebase**
 
