@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **eluented@gmail.com**
 
-- ⚡ Fun fact **I was born in the living room of my house**
-
 <p align="left">
 </p>
 
