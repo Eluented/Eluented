@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Next.js, Gatsby, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://onurbelek.netlify.app/](https://onurbelek.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
-- 📫 How to reach me **eluented@gmail.com**
+- 📫 How to reach me **onurbelek@outlook.com**
 
 <p align="left">
 </p>
