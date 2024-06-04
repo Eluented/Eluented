@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eluented&label=Profile%20views&color=0e75b6&style=flat" alt="eluented" /> </p>
 
-- 🔭 I’m currently working on creating an [ecommerce website](https://github.com/Eluented/eccomerce-practice)
+- 🔭 I’m currently working on Learning React Native and making my app into Production
 
-- 🌱 I’m currently learning **Next.js, Gatsby, Firebase**
+- 🌱 I’m currently learning **React Native, AWS"
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available [here](https://www.onurbelek.com/)
 
 - 📫 How to reach me **onurbelek@outlook.com**
 
