@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Learning React Native and making my app into Production
 
-- 🌱 I’m currently learning **React Native, AWS"
+- 🌱 I’m currently learning **React Native, AWS**
 
 - 👨‍💻 All of my projects are available [here](https://www.onurbelek.com/)
 
