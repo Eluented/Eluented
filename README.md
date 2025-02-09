@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/97059717/179628018-ab2b8f9d-d5d0-46ba-b43e-f4188ad2bd31.png" align="center" style="width: 100%" />
 </div>  
 
-<h1 align="center">Hi 👋, I'm Onur, a full-stack developer</h1>
+<h1 align="center">Welcome to my coding batcave</h1>
 <h3 align="center">“Perfection of character: to live your last day, every day, without frenzy, or sloth, or pretense.” - Marcus Aurelius</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eluented&label=Profile%20views&color=0e75b6&style=flat" alt="eluented" /> </p>
